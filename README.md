@@ -1,4 +1,4 @@
-### Olá, eu sou Amanda! (:
+### Olá (:
 
 - 🌱 I’m currently learning Javascript and React.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/bragaamandac/)
