@@ -1,6 +1,6 @@
 ### Olá (:
 
-- 🌱 I’m currently learning Javascript and React.
+- 🌱 I’m currently learning Python and SQL.
 - 📫 How to reach me:  [Linkedin](https://www.linkedin.com/in/bragaamandac/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragaamandac&layout=compact&theme=dracula)](https://github.com/bragaamandac/github-readme-stats)
